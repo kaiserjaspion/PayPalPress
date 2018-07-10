@@ -1,0 +1,6 @@
+c:\users\bruno pires\source\repos\PaypalPress\ClassLibrary1\bin\Debug\netstandard2.0\PayPalPress.deps.json
+c:\users\bruno pires\source\repos\PaypalPress\ClassLibrary1\bin\Debug\netstandard2.0\PayPalPress.dll
+c:\users\bruno pires\source\repos\PaypalPress\ClassLibrary1\obj\Debug\netstandard2.0\PayPalPress.csprojAssemblyReference.cache
+c:\users\bruno pires\source\repos\PaypalPress\ClassLibrary1\obj\Debug\netstandard2.0\PayPalPress.csproj.CoreCompileInputs.cache
+c:\users\bruno pires\source\repos\PaypalPress\ClassLibrary1\obj\Debug\netstandard2.0\PayPalPress.AssemblyInfoInputs.cache
+c:\users\bruno pires\source\repos\PaypalPress\ClassLibrary1\obj\Debug\netstandard2.0\PayPalPress.AssemblyInfo.cs
